@@ -1,0 +1,17 @@
+.form {
+  width: 320px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.label {
+  display: flex;
+  flex-direction: column;
+
+  color: white;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.header {
+  color: white;
+}
